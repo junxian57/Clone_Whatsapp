@@ -1,8 +1,6 @@
-# clone_whatsapp
+## Clone_whatsapp
 
-## Getting Started
-
-# RealTime Chat
+## RealTime Chat
 IF want using the realtime chat function pls download the chat_server
 https://github.com/junxian57/Chat_Server
 
